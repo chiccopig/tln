@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "topic": "biography",
+    "question": "In what year was I born?",
+    "answer": "1968",
+    "score": 5
+  },
+  {
+    "id": 2,
+    "type": "boolean",
+    "topic": "biography",
+    "question": "My father was not also an archaeologist.",
+    "answer": "false",
+    "score": 3
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "topic": "artifacts",
+    "question": "Which artifacts did I recover in Tomb Raider II?",
+    "answer": [
+      "dagger of xian",
+      "mask of tornarsuk"
+    ],
+    "score": 10
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "topic": "adventures",
+    "question": "Which city did I explore in search of the Philosopher's Stone?",
+    "answer": "rome",
+    "score": 5
+  },
+  {
+    "id": 5,
+    "type": "boolean",
+    "topic": "artifacts",
+    "question": "The Dagger of Xian grants immortality to whoever uses it correctly.",
+    "answer": "true",
+    "score": 3
+  },
+  {
+    "id": 6,
+    "type": "multiple",
+    "topic": "adventures",
+    "question": "Which locations did I visit during my early expeditions?",
+    "answer": [
+      "peru",
+      "greece",
+      "egypt"
+    ],
+    "score": 12
+  }
+]
